@@ -32,11 +32,6 @@ Home          | Playing
 4. Open the ```Tic_Tac_teo_game.pde``` file.
 5. Run it :)
 
-## Options
-* [x] Number of rounds counter
-* [x] Pause & Resume button
-* [x] Infinity game!
-
 ## How To Play It
 It's easy!
 1. Press left to play vs the computer
